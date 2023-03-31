@@ -1,0 +1,11 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"solid_sprite","order":4,"path":"sprites/solid_sprite/solid_sprite.yy",},
+    {"name":"obj_solid","order":1,"path":"objects/obj_solid/obj_solid.yy",},
+    {"name":"Sprite3","order":2,"path":"sprites/Sprite3/Sprite3.yy",},
+    {"name":"Sprite6","order":1,"path":"sprites/Sprite6/Sprite6.yy",},
+    {"name":"Smile","order":3,"path":"sprites/Smile/Smile.yy",},
+    {"name":"spr_kyst_example","order":1,"path":"sprites/spr_kyst_example/spr_kyst_example.yy",},
+  ],
+}
