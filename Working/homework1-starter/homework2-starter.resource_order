@@ -1,0 +1,15 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"solid_obj","order":1,"path":"objects/solid_obj/solid_obj.yy",},
+    {"name":"slow_obj","order":4,"path":"objects/slow_obj/slow_obj.yy",},
+    {"name":"Sprite7","order":5,"path":"sprites/Sprite7/Sprite7.yy",},
+    {"name":"cart_obj","order":3,"path":"objects/cart_obj/cart_obj.yy",},
+    {"name":"Sprite5","order":1,"path":"sprites/Sprite5/Sprite5.yy",},
+    {"name":"player_obj","order":2,"path":"objects/player_obj/player_obj.yy",},
+    {"name":"solid_sprite","order":3,"path":"sprites/solid_sprite/solid_sprite.yy",},
+    {"name":"spr_kyst_example","order":1,"path":"sprites/spr_kyst_example/spr_kyst_example.yy",},
+    {"name":"Sprite6","order":4,"path":"sprites/Sprite6/Sprite6.yy",},
+    {"name":"player_sprite","order":2,"path":"sprites/player_sprite/player_sprite.yy",},
+  ],
+}
