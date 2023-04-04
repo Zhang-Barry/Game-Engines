@@ -1,0 +1,23 @@
+{
+  "resourceType": "GMSound",
+  "resourceVersion": "1.0",
+  "name": "powerup",
+  "audioGroupId": {
+    "name": "audiogroup_default",
+    "path": "audiogroups/audiogroup_default",
+  },
+  "bitDepth": 1,
+  "bitRate": 128,
+  "compression": 1,
+  "conversionMode": 0,
+  "duration": 7.511667,
+  "parent": {
+    "name": "Sounds",
+    "path": "folders/Sounds.yy",
+  },
+  "preload": false,
+  "sampleRate": 44100,
+  "soundFile": "powerup.wav",
+  "type": 0,
+  "volume": 0.5,
+}

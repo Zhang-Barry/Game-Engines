@@ -1,0 +1,9 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"Sprite3","order":2,"path":"sprites/Sprite3/Sprite3.yy",},
+    {"name":"obj_wall","order":2,"path":"objects/obj_wall/obj_wall.yy",},
+    {"name":"obj_background","order":1,"path":"objects/obj_background/obj_background.yy",},
+    {"name":"spr_rct2_park","order":1,"path":"sprites/spr_rct2_park/spr_rct2_park.yy",},
+  ],
+}

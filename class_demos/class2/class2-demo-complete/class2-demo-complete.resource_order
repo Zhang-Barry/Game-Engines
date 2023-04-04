@@ -1,0 +1,11 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"obj_manager","order":3,"path":"objects/obj_manager/obj_manager.yy",},
+    {"name":"obj_wall","order":2,"path":"objects/obj_wall/obj_wall.yy",},
+    {"name":"obj_background","order":1,"path":"objects/obj_background/obj_background.yy",},
+    {"name":"snd_crowd_ambiance","order":1,"path":"sounds/snd_crowd_ambiance/snd_crowd_ambiance.yy",},
+    {"name":"spr_wall","order":2,"path":"sprites/spr_wall/spr_wall.yy",},
+    {"name":"spr_rct2_park","order":1,"path":"sprites/spr_rct2_park/spr_rct2_park.yy",},
+  ],
+}
