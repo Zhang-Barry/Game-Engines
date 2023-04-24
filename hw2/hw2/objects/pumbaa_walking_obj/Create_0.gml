@@ -3,3 +3,4 @@
 
 global.pumbaa_recruited = false;
 visible = false;
+

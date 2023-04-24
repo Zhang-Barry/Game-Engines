@@ -4,3 +4,4 @@
 
 global.timon_recruited = false;
 visible = false;
+timer = 8000;

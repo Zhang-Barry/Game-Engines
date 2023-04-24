@@ -1,12 +1,12 @@
-movespeed = 4;			//default 0.75
+movespeed = 2;			//default 0.75
 
 xRemainder = 0.0;
 yRemainder = 0.0;
 image_index = 0;
-audio_play_sound(Hakuna_Matata_Audio,1,true);
-
+visible = true;
 global.timon_recruited = false
 global.pumbaa_recruited = false;
+global.bugs_eaten = 0;
 
 timer = 3000;
 
