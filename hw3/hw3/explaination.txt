@@ -1,0 +1,2 @@
+Some of the specific things I cloned was having different jump heights depending how long I hold the jump button and
+acceleration on horizontal and vertical plane and when it stops to 0 when the player object hits something.
