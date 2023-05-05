@@ -1,0 +1,4 @@
+
+The flatgames that inspired this game was "Fluu" and "Labyrinthine Passages." The cool thing 
+I implemented in this game was the sprite frames for the characters used in the game. I wanted it to give the 
+characters more life, and it to be more natural when playing the game. 
