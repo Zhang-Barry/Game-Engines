@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_warp",
+  "name": "obj_warp3",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"player","path":"objects/player/player.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
   ],
@@ -26,9 +26,9 @@
   "physicsShapePoints": [],
   "physicsStartAwake": true,
   "properties": [
-    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"xPosition","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"200","varType":1,},
-    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"yPosition","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"10","varType":1,},
-    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"roomName","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"Room2","varType":5,},
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"xPosition","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"217","varType":1,},
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"yPosition","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"44","varType":1,},
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"roomName","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"Room3","varType":5,},
   ],
   "solid": false,
   "spriteId": {
