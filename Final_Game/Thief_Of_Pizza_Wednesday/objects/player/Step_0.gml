@@ -58,3 +58,25 @@ if(shake)
 else{
 	camera_set_view_pos(view_camera[0],view_x,view_y);
 }
+
+
+input_interact = keyboard_check_pressed(ord("E"));
+
+if(input_interact){
+	if (myTextbox == noone){
+		var inst = collision_rectangle(x- radius, y - radius, x + radius, y + radius, obj_message, false, false);
+		if(inst != noone){
+			show_debug_message("Interacting");
+			with(inst){
+				show_debug_message("Interacting");
+				myTextbox = instance_create_layer(68,86,"Instances",obj_textbox);
+//				myTextbox.text = myText;
+			}
+		}
+	else{
+		if(!instance_exists(myTextbox)){
+			myTextbox = noone;
+		}
+	}
+	}
+}

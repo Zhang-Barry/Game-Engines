@@ -23,6 +23,7 @@
     {"name":"obj_warp2","order":8,"path":"objects/obj_warp2/obj_warp2.yy",},
     {"name":"obj_warp5","order":7,"path":"objects/obj_warp5/obj_warp5.yy",},
     {"name":"Room1","order":2,"path":"rooms/Room1/Room1.yy",},
+    {"name":"Sprite9","order":7,"path":"sprites/Sprite9/Sprite9.yy",},
     {"name":"sprite_tiles","order":2,"path":"sprites/sprite_tiles/sprite_tiles.yy",},
     {"name":"obj_warp3","order":5,"path":"objects/obj_warp3/obj_warp3.yy",},
     {"name":"Room3","order":4,"path":"rooms/Room3/Room3.yy",},
